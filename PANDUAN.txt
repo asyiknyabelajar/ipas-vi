@@ -1,0 +1,16 @@
+PENDAMPING AKADEMIK — IPAS VI v1.0
+
+Isi: 82 halaman: 1 daftar isi, 6 pengantar bab, 54 pembahasan (216 submateri), 6 proyek dan rangkuman, 14 modul pengayaan, 1 proyek akhir. Latihan: 68 pertanyaan terbuka dengan pembahasan jawaban, bukan tes otomatis.
+
+1. Buka index.html di browser untuk pratinjau. Isi dan navigasi bekerja lokal; foto Wikimedia memerlukan internet. Foto sumber tidak diunduh ke paket karena jaringan lingkungan pembuatan tidak tersedia. Sumber/kredit terdapat pada setiap foto.
+2. Buat repositori GitHub publik bernama ipas-vi pada akun asyiknyabelajar. Unggah index.html pada root. File lain hanya untuk panduan/revisi, tidak perlu diunggah.
+3. Settings > Pages > Deploy from a branch > main / (root) > Save. URL rencana: https://asyiknyabelajar.github.io/ipas-vi/ (belum dipublikasikan atau diuji di situs langsung).
+4. Buat halaman Blogger, pilih tampilan HTML, tempel isi BLOGGER_EMBED.html. Jika URL repositori berbeda, ubah kedua kemunculan URL rencana. Publikasikan.
+5. Periksa foto dan navigasi di browser desktop dan ponsel. Data kemajuan disimpan di localStorage pada perangkat/browser yang sama; di iframe beberapa browser dapat membatasi penyimpanan. Gunakan layar penuh bila diperlukan.
+
+Judul SEO: Materi IPAS Kelas 6 SD/MI Kurikulum Merdeka | 6 Bab Lengkap
+Deskripsi penelusuran: Pelajari IPAS kelas 6 SD/MI Kurikulum Merdeka edisi revisi 2025. Enam bab lengkap, 216 submateri, latihan, proyek PjBL, dan pengayaan Fase C.
+
+Katalog: https://pendampingakademik.blogspot.com/p/kelas-6-sdmi.html
+
+Catatan: struktur utama mengikuti enam bab resmi; pembagian semester dan turunan materi adalah pengembangan PA. Buku internal sekolah dan bimbel tidak tersedia penuh. Tidak ada SVG, ikon atau emoji. Foto ilustratif yang sama dapat muncul pada topik yang berkaitan. Tidak ada pengunggahan otomatis ke GitHub/Blogger.
